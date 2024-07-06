@@ -1,0 +1,17 @@
+LOCATIONS = (
+    'Textures',
+    'textures',
+    'DLC02',
+    'Dlc02',
+    'dlc02',
+    'Landscape',
+    'landscape',
+    'Architecture',
+    'architecture',
+    'Whiterun',
+    'whiterun',
+    'Dungeons',
+    'dungeons',
+    'Mines',
+    'mines',
+)
