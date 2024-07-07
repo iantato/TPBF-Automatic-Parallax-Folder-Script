@@ -10,7 +10,7 @@ A script for the mod created by [devikyn](https://next.nexusmods.com/profile/dev
 #### Clone the script
 Make sure you have [Python](https://www.python.org/) and [Git](https://git-scm.com/download/win) installed in your computer.
 ```
-git clone https://github.com/iantato/TPBF-Automatic-Parallax-Folder-Script .
+git clone https://github.com/iantato/TPBF-Automatic-Parallax-Folder-Script
 ```
 
 #### - Run the Python script
