@@ -3,7 +3,7 @@ A script for the mod created by [devikyn](https://next.nexusmods.com/profile/dev
 <br> https://next.nexusmods.com/profile/devikyn/about-me?gameId=1704
 
 # Automatic Move to Parallax Folder Script
-<a href="https://www.buymeacoffee.com/iantato"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=iantato&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C11075O3)
 <br> This script automates the 6th step of [TPBF](https://www.nexusmods.com/skyrimspecialedition/mods/88261) which is basically moving a certain list of files into their own parallax folder. Please read the installation and usage.
 
 ### - Installation and Usage
