@@ -41,10 +41,10 @@ for mod in mods:
             
             os.makedirs(dir + '\\parallax')
             for file in files:
-                log.debug(f'{mod} : copying {file} to {dir + "\\parallax"}...')
+                log.debug(f'{mod} : copying {file} to {dir}\\parallax...')
                 shutil.copy(dir + '\\' + file, dir + '\\parallax')
             
-            log.debug(f'{mod} : finished copying {len(files)} files to {dir + "\\parallax"}')
+            log.debug(f'{mod} : finished copying {len(files)} files to {dir}\\parallax')
 
 log.newline()
 log.info('Terrain Parallax Blending Fix is now compatible with your specified mods!')
