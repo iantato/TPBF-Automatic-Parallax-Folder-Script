@@ -26,6 +26,8 @@ python main.py
 ### Notes (IMPORTANT)
 The mods folder can be found here and the whole path should be copied:
 ![image-1](https://github.com/iantato/TPBF-Automatic-Parallax-Folder-Script/assets/83338977/1e286ecd-2876-4a49-b1e9-30601c623aa7)
+![image](https://github.com/user-attachments/assets/4fe45596-76e9-4035-9864-93b88171d63d)
+
 
 Place the mod's name inside a quotation mark in order to process multiple mods at the same time. Use spaces to separate the mods.
 ```
